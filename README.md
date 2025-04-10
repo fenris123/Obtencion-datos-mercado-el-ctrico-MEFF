@@ -1,4 +1,4 @@
-# Obtencion-datos-mercado-el-ctrico-MEFF
+# Obtencion-datos-mercado-electrico-MEFF
 Pequeño script para obtener los datos del mercado eléctrico MEFF
 
 With this simple script you can obtain the expected prices of electricity (according to MEFF market) and insert it in a Pandas df.
